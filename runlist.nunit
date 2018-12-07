@@ -1,0 +1,9 @@
+<NUnitProject>
+ <Settings activeconfig="Debug"/>
+ <Config name="Debug">
+   <assembly path="C:\Users\charl\source\repos\ApiTestTd\ApiTestTdTest\bin\Debug\ApiTestTdTest.dll"/>
+ </Config>
+ <Config name="Release">
+   <assembly path="path relaese dll"/>
+ </Config>
+</NUnitProject>
